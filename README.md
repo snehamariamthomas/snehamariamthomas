@@ -1,6 +1,6 @@
 ### Hi there, I'm Sneha Mariam Thomas! 👩‍💻
 
-- 🎓 LSE student of Data Science
+- 🎓 Specialising in Data Science at LSE, with a background in Economics and International Development 
 - 🎯 Aim: Leveraging Data Science for social good
 - 💼 Work Experience: Project Manager and Monitoring and Evaluation Specialist with Government of India
 
@@ -19,10 +19,10 @@
 | Area            | Project Name                        |
 |-----------------|-------------------------------------|
 | Machine Learning| [Voter Turnout Prediction](https://github.com/snehamariamthomas/Voter-Turnout-Prediction.git)             |
-| Data Analysis + SQL   | [UK Policing Disparities]((https://github.com/snehamariamthomas/UK-Policing-Disparities.git)      |
+| Data Analysis + SQL   | [UK Policing Disparities](https://github.com/snehamariamthomas/UK-Policing-Disparities.git)      |
 
 ### Let's Connect 🔗
 
 - [LinkedIn](https://www.linkedin.com/in/sneha-mariam-thomas-82a746113)
-- 📧: sneha.mthomas.st@gmail.com
+- Email: sneha.mthomas.st@gmail.com
 
