@@ -1,4 +1,4 @@
-### Hi there, I'm Sneha Mariam Thomas! 👩‍💻
+### Hi there, I'm Sneha Mariam Thomas! 🙏
 
 - 🎓 Specialising in Data Science at LSE, with a background in Economics and International Development 
 - 🎯 Aim: Leveraging Data Science for social good
