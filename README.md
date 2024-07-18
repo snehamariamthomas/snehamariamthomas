@@ -1,16 +1,28 @@
-## Hi there 👋
+### Hi there, I'm Sneha Mariam Thomas! 👩‍💻
 
-<!--
-**snehamariamthomas/snehamariamthomas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 LSE student of Data Science
+- 🎯 Aim: Leveraging Data Science for social good
+- 💼 Work Experience: Project Manager and Monitoring and Evaluation Specialist with Government of India
 
-Here are some ideas to get you started:
+### Current Projects 👩‍💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Applying NLP techniques to analyze gender dynamics in Indian Parliamentary questions, using word embeddings for identification and topic modeling for discourse analysis
+
+### Languages and Tools 💻
+
+- R
+- Python
+- MySQL
+
+### Recent Projects 📊
+
+| Area            | Project Name                        |
+|-----------------|-------------------------------------|
+| Machine Learning| [Voter Turnout Prediction](https://github.com/snehamariamthomas/Voter-Turnout-Prediction.git)             |
+| Data Analysis + SQL   | [UK Policing Disparities]((https://github.com/snehamariamthomas/UK-Policing-Disparities.git)      |
+
+### Let's Connect 🔗
+
+- [LinkedIn](https://www.linkedin.com/in/sneha-mariam-thomas-82a746113)
+- 📧: sneha.mthomas.st@gmail.com
+
