@@ -6,7 +6,7 @@
 
 ### Current Projects 👩‍💻
 
-- Applying NLP techniques to analyze gender dynamics in Indian Parliamentary questions(1999-2024), using word embeddings for identification and topic modeling for discourse analysis
+- Harnessing NLP techniques to explore gender dynamics in Indian Parliamentary questions (1999-2024), employing word embeddings for identification and topic modeling for discourse analysis
 
 ### Languages and Tools 💻
 
