@@ -18,8 +18,9 @@
 
 | Area            | Project Name                        |
 |-----------------|-------------------------------------|
-| Machine Learning| [Voter Turnout Prediction](https://github.com/snehamariamthomas/Voter-Turnout-Prediction.git)             |
-| Data Analysis + SQL   | [UK Policing Disparities](https://github.com/snehamariamthomas/UK-Policing-Disparities.git)      |
+| Machine Learning | [Voter Turnout Prediction](https://github.com/snehamariamthomas/Voter-Turnout-Prediction.git)  |
+| Data Analysis + SQL | [UK Policing Disparities](https://github.com/snehamariamthomas/UK-Policing-Disparities.git) |
+| Natural Language Processing | [Depression Detection on Reddit](https://github.com/snehamariamthomas/depression-detection.git) , [Sentiment Analysis on Movie Reviews](https://github.com/snehamariamthomas/movie-review-sentiment-analysis.git)  |
 
 ### Let's Connect 🔗
 
