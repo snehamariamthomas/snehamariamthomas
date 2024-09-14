@@ -1,7 +1,7 @@
 ### Hi there, I'm Sneha Mariam Thomas!
 
 - 🎓 Specialising in Data Science at LSE, with a background in Economics and International Development 
-- 🎯 Aim: Leveraging Data Science for social good
+- 🎯 Aim: Leveraging Data Science for social impact
 - 💼 Work Experience: Project Manager and Monitoring and Evaluation Specialist with Government of India
 
 ### Current Projects 👩‍💻
