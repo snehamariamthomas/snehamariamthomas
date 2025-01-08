@@ -12,7 +12,8 @@
 
 - R
 - Python
-- MySQL
+- SQL
+- PowerBI
 
 ### Recent Projects 📊📝
 
